@@ -1,7 +1,5 @@
 <h1 align="center">Welcome to Tipper! 👋</h1>
 
-
-
 ### 🏠 [Homepage]()
 
 ## Install
@@ -33,11 +31,12 @@ Please create the file:
 add these 2 variables inside the file:
 
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
+<br>
 &
+<br>
 STRIPE_SECRET_KEY=
 
 see .env.example for reference
-
 
 ## Run Project
 
@@ -49,7 +48,7 @@ $ npm run dev
 
 ## Making a Test Payment
 
-When filling in the payment form, use a long card number such as 4242 4242 4242 4242. 
+When filling in the payment form, use a long card number such as 4242 4242 4242 4242.
 
 - Use a valid future date, such as 12/34.
 - Use any three-digit CVC (four digits for American Express cards).
@@ -60,11 +59,11 @@ When filling in the payment form, use a long card number such as 4242 4242 4242 
 To check confirmation of Stripe payments:
 
 1. Go to Payments
-![alt text](image.png)
+   ![alt text](image.png)
 2. Toggle on Test Mode
-![alt text](image-1.png)
+   ![alt text](image-1.png)
 3. Select All Payments
-![alt text](image-2.png)
+   ![alt text](image-2.png)
 
 ## Authors
 
@@ -74,7 +73,6 @@ To check confirmation of Stripe payments:
 - Github: [Langa](https://github.com/)
 - Github: [Eric](https://github.com/)
 - Github: [Victor](https://github.com/)
-
 
 ## 🤝 Contributing
 

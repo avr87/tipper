@@ -59,10 +59,13 @@ When filling in the payment form, use a long card number such as 4242 4242 4242 
 To check confirmation of Stripe payments:
 
 1. Go to Payments
+   <br>
    ![alt text](image.png)
 2. Toggle on Test Mode
+   <br>
    ![alt text](image-1.png)
 3. Select All Payments
+   <br>
    ![alt text](image-2.png)
 
 ## Authors
